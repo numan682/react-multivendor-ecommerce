@@ -1,6 +1,6 @@
 
 
-# React Laravel Ecommerce
+# PReact Laravel Ecommerce
 
 Pickbazar Laravel Ecommerce is a robust and feature-rich ecommerce solution built on Laravel, offering powerful REST API and GraphQL API support. This platform combines the frontend excellence of React, Next.js [TypeScript], and the flexibility of Tailwind CSS for a seamless shopping experience.
 
@@ -26,7 +26,7 @@ Pickbazar Laravel Ecommerce is a robust and feature-rich ecommerce solution buil
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/pickbazar-laravel-ecommerce.git
+   git clone https://github.com/numan682/pickbazar-laravel-ecommerce.git
    cd pickbazar-laravel-ecommerce
    ```
 
@@ -54,7 +54,7 @@ Pickbazar Laravel Ecommerce is a robust and feature-rich ecommerce solution buil
 
 ## Support
 
-For detailed installation instructions, troubleshooting, and more, please refer to the [documentation](link-to-documentation).
+For detailed installation instructions, troubleshooting, and more, please refer to the [documentation](#).
 
 ---
 
@@ -62,6 +62,3 @@ For detailed installation instructions, troubleshooting, and more, please refer 
 
 Laravel Ecommerce, Laravel-based Ecommerce Solution, React, Next.js, TypeScript, Tailwind CSS, GraphQL API, REST API, Payment Gateway Integration, Multivendor Ecommerce, Admin Dashboard, Cash-on-Delivery Support, Full Source Code Access, Lightning-Fast Performance, User-Friendly Ecommerce, Scalable Ecommerce Solution, Documentation, Installation Guide, Laravel Developer, Ecommerce Platform.
 
----
-
-Incorporate this `README.md` into your GitHub repository, ensuring it is informative, engaging, and optimized with relevant keywords for search engines. Adjust the placeholders (like `your_username` and `link-to-documentation`) with actual details specific to your project. This approach will help attract users and developers searching for a comprehensive Laravel ecommerce solution like Pickbazar.
