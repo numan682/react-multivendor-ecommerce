@@ -1,6 +1,6 @@
 
 
-# PReact Laravel Ecommerce
+# React Laravel Ecommerce
 
 Pickbazar Laravel Ecommerce is a robust and feature-rich ecommerce solution built on Laravel, offering powerful REST API and GraphQL API support. This platform combines the frontend excellence of React, Next.js [TypeScript], and the flexibility of Tailwind CSS for a seamless shopping experience.
 
